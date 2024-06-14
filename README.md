@@ -32,6 +32,9 @@ Je maîtrise également Docker pour la gestion et le déploiement de conteneurs.
         <li><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"></li>
         <li><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle"></li>
         <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"></li>
+        <li><img src="https://img.shields.io/badge/SAML-FF4F4F?style=flat&logo=saml&logoColor=white" alt="SAML"></li>
+        <li><img src="https://img.shields.io/badge/OpenID-FFA500?style=flat&logo=openid&logoColor=white" alt="OpenID"></li>
+        <li><img src="https://img.shields.io/badge/OAuth2-347AB7?style=flat&logo=oauth&logoColor=white" alt="OAuth2"></li>
       </ul>
     </td>
   </tr>
@@ -65,7 +68,5 @@ N'hésitez pas à me contacter via [hello@lucasvieira.fr] pour toute collaborati
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasv02&show_icons=true&theme=radical" alt="Statistiques GitHub" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasv02&layout=compact&theme=radical" alt="Langages les Plus Utilisés" width="49%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasv02&theme=radical" alt="Contributions" width="98%">
 </p>
