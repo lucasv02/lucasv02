@@ -53,7 +53,7 @@ Je suis également impliqué dans la création et la mise en production de plusi
 
 ## 🌐 Liens Utiles
 
-- [Mon Blog](https://blod.lucasvieira.fr)
+- [Mon Blog](https://news.lucasvieira.fr)
 - [Mon Portfolio](https://lucasvieira.fr)
 - [Mon LinkedIn](https://www.linkedin.com/in/lucasv02)
 
